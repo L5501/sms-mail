@@ -1,0 +1,13 @@
+server:
+  port: 1225
+
+# ”¶”√√˚≥∆
+spring:
+  application:
+    name: sendSms
+  # ≈‰÷√redis
+#  redis:
+#    port: 6379
+#    host:
+#    password:
+
